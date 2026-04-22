@@ -16,7 +16,7 @@ B12 application endpoint, and returns the receipt. Stdlib only.
 
 ### GitHub Actions
 
-Set three repository secrets:
+Create a `prod` environment and set three secrets on it:
 
 - `APPLICANT_NAME`
 - `APPLICANT_EMAIL`
